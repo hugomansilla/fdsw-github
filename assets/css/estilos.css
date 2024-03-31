@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.marca{
+  font-size: 25px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
