@@ -15,6 +15,10 @@ body {
   background-position: left;
 }
 
+.fondo{
+  background-color: rgba(13, 202, 240, 0.9); /* Color de fondo semitransparente */
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
